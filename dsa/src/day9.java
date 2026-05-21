@@ -97,12 +97,12 @@ public class day9 {
 //        System.out.println();
 //        pattern6(4);
 //        System.out.println();
-//        pattern7(4);
+        pattern7(4);
 //        System.out.println();
 //        pattern8(4);
 //        System.out.println();
 //        pattern9(5);
 //        System.out.println();
-        multiply(5, 3);
+//        multiply(5, 3);
     }
 }
